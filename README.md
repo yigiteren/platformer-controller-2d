@@ -15,4 +15,4 @@ You are done! Start the game and enjoy your 2D controller! :)
 
 ## License
 
-Attribution is not required, but is welcomed. You are **allowed** to use this controller in your commercial/non-commercial projects. You are **not allowed** to redistribute/resell the project.
+Attribution is not required, but is welcomed. You are **allowed** to use this controller in your commercial/non-commercial projects. You are **not allowed** to redistribute/resell the controller.
