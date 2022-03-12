@@ -2,6 +2,8 @@
 
 A fully customizable platformer controller for Unity. A platformer controller that doesn't feel like you are floating in the air, and feels good to play instead.
 
+![Thumbnail](https://github.com/yigiteren/platformer-controller-2d/blob/master/Example%20Assets/Sprites/Thumbnail.png)
+
 ## Setup
 
 There is a prefab that you can just drag and drop into your project. If you would like to create your character from scratch, follow the steps below.
