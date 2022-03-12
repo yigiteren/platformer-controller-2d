@@ -12,3 +12,7 @@ There is a prefab that you can just drag and drop into your project. If you woul
 - Finally not necessary, but for more predictable results, I suggest you to add a Physics Material to both player and ground and set the friction to 0. You can use **No Friction Material** provided in the example assets.
 
 You are done! Start the game and enjoy your 2D controller! :)
+
+## License
+
+Attribution is not required, but is welcomed. You are **allowed** to use this controller in your commercial/non-commercial projects. You are **not allowed** to redistribute/resell the project.
