@@ -1,5 +1,7 @@
 # Yern's Platformer Controller 2D
 
+### Update: This archive is now archived, and will no longer receive any updates.
+
 A fully customizable platformer controller for Unity. A platformer controller that doesn't feel like you are floating in the air, and feels good to play instead.
 
 <p align="center">
